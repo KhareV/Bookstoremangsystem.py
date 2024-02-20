@@ -1,0 +1,15 @@
+Unique Code.,Name,Duration Of Membership(in days),State,Gender,Age,Delays,Email,DOB
+3911,Uttara K,88,HP,Female,35,44,fdfss@gmail.com,12/04
+4911,Jenny P,90,Kerala,Female,23,67,ffg@gmail.com,12/03
+5911,Anuj L,45,Punjab,Male,34,34,fdfd@gmail.com,12/02
+6911,Bilal J,500,UP,Male,28,77,ffdf@gmail.com,12/01
+7911,Efraim G,100,J&K,Male,39,0,ffdddds@gmail.com,12/11
+8911,Tarun U,30,MP,Male,40,19,sd@gmail.com,12/12
+1232,Ashwin K,90,MP,Male,29,20,oiph@gmail.com,12/12
+1234,Ravi A,50,MH,Male,30,20,jnhiygu@gmail.com,13/15
+3767,Jeevan L,59,MH,Male,34,12,sgugdu@gmail.com,12/05
+2323,Karan P,23,MP,Male,34,12,snd@gmail.com,12/05
+5436,Timur J,13,MH,Male,25,45,dh@gmail.com,34/12
+2893,Dhruv A,34,MH,Male,33,0,hgh@gmail.com,12/05
+3434,Jahnvi A,45,RAJ,Female,17,9,hdgsh@gmail.com,12/09
+10023,Kanav K,22,MP,Male,23,44,gasf@gmail.com,12/08
